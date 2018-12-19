@@ -1,0 +1,11 @@
+
+
+New Purchase
+Employee ID: 
+Price Total: 1.08
+
+
+New Purchase
+
+Employee ID: 
+Price Total: 17.32
